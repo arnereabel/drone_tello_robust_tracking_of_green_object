@@ -2,8 +2,6 @@
 Stream test:
 Pull the video from the drone and display in cv2 window.
 Optionally encode video and dump to file.
-@author Saksham Sinha and Jonathan Byrne
-@copyright 2018 see license file for details
 """
 import av
 import numpy
